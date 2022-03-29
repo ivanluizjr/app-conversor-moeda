@@ -12,7 +12,7 @@
 * Flutter Framework
 #
 
-#### :arrow_right: Link API Utilizado no Projeto
+#### :arrow_right: Link API Utilizada no Projeto
 
 :link: https://hgbrasil.com/status/finance
 #
