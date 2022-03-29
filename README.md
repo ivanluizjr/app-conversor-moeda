@@ -21,7 +21,8 @@
 
 #
 
-![App_Conversor_Moedas](https://user-images.githubusercontent.com/41458938/160605946-24afe62c-87c7-454e-bf69-e42667835845.gif)
+![Cotacao_Gif](https://user-images.githubusercontent.com/41458938/160659041-747918cc-5e53-46b5-8d55-d621ec9067f9.gif)
+
 
 #
 
