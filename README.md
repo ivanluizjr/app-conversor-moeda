@@ -1,4 +1,4 @@
-# Projeto de Estudo Consumir API e Fazer Cotação de Moedas
+# :money_with_wings: Projeto de Estudo Consumir API e Fazer Cotação de Moedas
 
 ## :ballot_box_with_check: Objetivo deste projeto
 
